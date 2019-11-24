@@ -1,0 +1,13 @@
+
+body {
+  background-color: rgb(179, 210, 214);
+}
+h1 {
+  color: ghostwhite;
+}
+
+p {
+  color: rgb(122, 59, 238);
+  border: 1px solid rgb(18, 77, 238);
+  padding: 30px;
+}
